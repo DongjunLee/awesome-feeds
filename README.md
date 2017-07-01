@@ -17,6 +17,7 @@
 
 ## Machine Learning
 - [Andrej Karpathy - Medium](https://medium.com/@karpathy/) : https://medium.com/feed/@karpathy/
+- [Google Research Blog](https://research.googleblog.com/): http://feeds.feedburner.com/blogspot/gJZg
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
@@ -25,3 +26,10 @@
 ## Podcast
 - [나는 프로그래머다](https://iamprogrammer.io) : https://iamprogrammer.io/feed/
 - [Talk Python To Me](https://talkpython.fm) : https://talkpython.fm/feed
+
+## StartUp
+- [TechCrunch - StartUp](https://techcrunch.com/startups/) : http://feeds.feedburner.com/TechCrunch/startups
+- [Platum](http://platum.kr/) : http://platum.kr/feed
+
+## Tech
+- [techNeedle](http://techneedle.com/) : http://techneedle.com/feed
