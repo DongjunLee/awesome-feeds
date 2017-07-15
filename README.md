@@ -19,6 +19,7 @@
 - [Andrej Karpathy - Medium](https://medium.com/@karpathy/) : https://medium.com/feed/@karpathy/
 - [Google Research Blog](https://research.googleblog.com/): http://feeds.feedburner.com/blogspot/gJZg
 - [Sung Kim - YouTube channel](https://www.youtube.com/user/hunkims/featured) : https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw
+- [The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/): http://bair.berkeley.edu/blog/feed.xml
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
