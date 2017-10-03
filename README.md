@@ -29,6 +29,7 @@
 - [OpenAI Blog](https://blog.openai.com/) : https://blog.openai.com/rss/
 - [Korea Tensorflow Blog](https://tensorflow.blog/) : https://tensorflow.blog/feed/
 - [Lunit Tech Blog](https://blog.lunit.io/feed/) : https://blog.lunit.io/feed/
+- [Apple Machine Learning Journal](https://machinelearning.apple.com/feed.xml) : https://machinelearning.apple.com/feed.xml
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
