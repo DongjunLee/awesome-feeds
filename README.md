@@ -30,6 +30,7 @@
 - [Korea Tensorflow Blog](https://tensorflow.blog/) : https://tensorflow.blog/feed/
 - [Lunit Tech Blog](https://blog.lunit.io/feed/) : https://blog.lunit.io/feed/
 - [Apple Machine Learning Journal](https://machinelearning.apple.com/feed.xml) : https://machinelearning.apple.com/feed.xml
+- [Facebook Research Blog](https://research.fb.com/blog/) : https://research.fb.com/blog/feed/
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
