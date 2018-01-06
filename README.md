@@ -43,6 +43,7 @@
 ## Podcast
 - [나는 프로그래머다](https://iamprogrammer.io) : https://iamprogrammer.io/feed/
 - [Talk Python To Me](https://talkpython.fm) : https://talkpython.fm/feed
+- [This Week in Machine Learning & AI Podcast](https://twimlai.com/) : http://feeds.feedburner.com/twimlai
 
 ## StartUp
 - [TechCrunch - StartUp](https://techcrunch.com/startups/) : http://feeds.feedburner.com/TechCrunch/startups
