@@ -34,6 +34,7 @@
 - [inFERENCe](http://www.inference.vc/) : http://www.inference.vc/rss/
 - [Agustinus Kristiadi's Blog](https://wiseodd.github.io/techblog/) : https://wiseodd.github.io/feed.xml
 - [Jaejun Yoo's Playground](http://jaejunyoo.blogspot.com/) : http://jaejunyoo.blogspot.com/feeds/posts/default
+- [Sorta Insightful](https://www.alexirpan.com/feed.xml)
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
