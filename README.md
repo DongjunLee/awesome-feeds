@@ -34,14 +34,13 @@
 - [inFERENCe](http://www.inference.vc/) : http://www.inference.vc/rss/
 - [Agustinus Kristiadi's Blog](https://wiseodd.github.io/techblog/) : https://wiseodd.github.io/feed.xml
 - [Jaejun Yoo's Playground](http://jaejunyoo.blogspot.com/) : http://jaejunyoo.blogspot.com/feeds/posts/default
-- [Sorta Insightful](https://www.alexirpan.com/feed.xml)
+- [Sorta Insightful](https://www.alexirpan.com/) : https://www.alexirpan.com/feed.xml
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
 - [The GEAR](http://thegear.co.kr) : http://thegear.co.kr/rss
 
 ## Podcast
-- [나는 프로그래머다](https://iamprogrammer.io) : https://iamprogrammer.io/feed/
 - [Talk Python To Me](https://talkpython.fm) : https://talkpython.fm/feed
 - [This Week in Machine Learning & AI Podcast](https://twimlai.com/) : http://feeds.feedburner.com/twimlai
 
