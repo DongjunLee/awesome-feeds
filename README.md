@@ -35,6 +35,7 @@
 - [Agustinus Kristiadi's Blog](https://wiseodd.github.io/techblog/) : https://wiseodd.github.io/feed.xml
 - [Jaejun Yoo's Playground](http://jaejunyoo.blogspot.com/) : http://jaejunyoo.blogspot.com/feeds/posts/default
 - [Sorta Insightful](https://www.alexirpan.com/) : https://www.alexirpan.com/feed.xml
+- [Off the Convex Path](http://www.offconvex.org/) : http://www.offconvex.org/feed
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
