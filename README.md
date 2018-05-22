@@ -36,6 +36,7 @@
 - [Jaejun Yoo's Playground](http://jaejunyoo.blogspot.com/) : http://jaejunyoo.blogspot.com/feeds/posts/default
 - [Sorta Insightful](https://www.alexirpan.com/) : https://www.alexirpan.com/feed.xml
 - [Off the Convex Path](http://www.offconvex.org/) : http://www.offconvex.org/feed
+- [fast.ai NLP](http://nlp.fast.ai/) : http://nlp.fast.ai/feed.xml
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
