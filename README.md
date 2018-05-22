@@ -31,6 +31,7 @@
 - [Apple Machine Learning Journal](https://machinelearning.apple.com/feed.xml) : https://machinelearning.apple.com/feed.xml
 - [Facebook Research Blog](https://research.fb.com/blog/) : https://research.fb.com/blog/feed/
 - [Distill](https://distill.pub/) : https://distill.pub/rss.xml
+- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/): https://www.microsoft.com/en-us/research/feed/
 - [inFERENCe](http://www.inference.vc/) : http://www.inference.vc/rss/
 - [Agustinus Kristiadi's Blog](https://wiseodd.github.io/techblog/) : https://wiseodd.github.io/feed.xml
 - [Jaejun Yoo's Playground](http://jaejunyoo.blogspot.com/) : http://jaejunyoo.blogspot.com/feeds/posts/default
