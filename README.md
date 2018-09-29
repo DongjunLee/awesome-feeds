@@ -40,6 +40,7 @@
 - [Off the Convex Path](http://www.offconvex.org/) : http://www.offconvex.org/feed
 - [fast.ai NLP](http://nlp.fast.ai/) : http://nlp.fast.ai/feed.xml
 - [The Spectator Shakir's ML Blog](http://blog.shakirm.com/) : http://blog.shakirm.com/feed/
+- [SuaLab Research Blog](http://research.sualab.com/) : http://research.sualab.com/feed.xml
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
