@@ -57,3 +57,4 @@
 ## Tech
 - [techNeedle](http://techneedle.com/) : http://techneedle.com/feed
 - [MIT Technology Review](https://www.technologyreview.com/): https://www.technologyreview.com/topnews.rss
+- [STRATECHERY](https://stratechery.com/): http://stratechery.com/feed/
