@@ -9,6 +9,7 @@
 
 ## Insightful
 - [한국 인사이트 블로그](https://github.com/BenjaminKim/awesome-blogs) : https://awesome-blogs.petabytes.org/feeds?group=insightful
+- [INSPIRATIONS + STARTUP](http://tkim.co/) : http://tkim.co/feed/
 
 ## Develop
 - [the morning paper](https://blog.acolyer.org/) : https://blog.acolyer.org/feed/
