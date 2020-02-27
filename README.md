@@ -48,7 +48,6 @@
 - [The GEAR](http://thegear.co.kr) : http://thegear.co.kr/rss
 
 ## Podcast
-- [Talk Python To Me](https://talkpython.fm) : https://talkpython.fm/feed
 - [This Week in Machine Learning & AI Podcast](https://twimlai.com/) : http://feeds.feedburner.com/twimlai
 
 ## StartUp
