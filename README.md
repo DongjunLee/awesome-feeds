@@ -17,15 +17,14 @@
 - [기술회사 블로그모음](https://github.com/BenjaminKim/awesome-blogs) : https://awesome-blogs.petabytes.org/feeds?group=company
 - [개발자 블로그 모음](https://github.com/BenjaminKim/awesome-blogs) : https://awesome-blogs.petabytes.org/feeds?group=dev
 - [Robert C. Martin - CleanCoder](http://blog.cleancoder.com/) : http://blog.cleancoder.com/atom.xml
-- [Github Blog Engineering](https://github.blog/category/engineering/): https://github.blog/category/engineering/feed/
-- [DevGround](http://devground.hanbit.co.kr/): http://devground.hanbit.co.kr/feed
+- [Github Blog Engineering](https://github.blog/category/engineering/) : https://github.blog/category/engineering/feed/
+- [DevGround](http://devground.hanbit.co.kr/) : http://devground.hanbit.co.kr/feed
 
 ## Data Science
 - [No Free Hunch](http://blog.kaggle.com/) : http://blog.kaggle.com/feed/
 
 ## Machine Learning
 - [Andrej Karpathy](https://medium.com/@karpathy/) : https://medium.com/feed/@karpathy/
-- [Google Research Blog](https://research.googleblog.com/) : http://feeds.feedburner.com/blogspot/gJZg
 - [The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/): http://bair.berkeley.edu/blog/feed.xml
 - [DeepMind Blog](https://deepmind.com/blog/) : https://deepmind.com/blog/feed/basic/
 - [OpenAI Blog](https://blog.openai.com/) : https://blog.openai.com/rss/
@@ -47,11 +46,11 @@
 
 ## News
 - [NewsPeppermint](http://newspeppermint.com/) : http://newspeppermint.com/feed/
-- [The GEAR](http://thegear.co.kr) : http://thegear.co.kr/rss
+- [The GEAR](https://www.thegear.kr/) : http://www.thegear.kr/rss/allArticle.xml
 
 ## Podcast
-- [Talk Python To Me](https://talkpython.fm) : https://talkpython.fm/feed
 - [This Week in Machine Learning & AI Podcast](https://twimlai.com/) : http://feeds.feedburner.com/twimlai
+- [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) : https://lexfridman.com/category/ai/feed/
 
 ## StartUp
 - [TechCrunch - StartUp](https://techcrunch.com/startups/) : http://feeds.feedburner.com/TechCrunch/startups
