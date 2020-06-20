@@ -9,6 +9,7 @@
 ## Insight
 - [인사이트 블로그모음](https://github.com/BenjaminKim/awesome-blogs) : https://awesome-blogs.petabytes.org/feeds?group=insightful
 - [**INSPIRATIONS + STARTUP**](http://tkim.co/) : http://tkim.co/feed/
+- [**Headstart Growth**](https://headstartup.tistory.com/): https://headstartup.tistory.com/feed
 
 ## Develop
 - [**the morning paper**](https://blog.acolyer.org/) : https://blog.acolyer.org/feed/
