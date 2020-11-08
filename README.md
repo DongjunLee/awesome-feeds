@@ -6,12 +6,18 @@
 
 - [HumanBrain](https://dongjunlee.github.io/) : https://dongjunlee.github.io/feed.xml
 
+
+
 ## Insight
+
 - [인사이트 블로그모음](https://github.com/BenjaminKim/awesome-blogs) : https://awesome-blogs.petabytes.org/feeds?group=insightful
 - [**INSPIRATIONS + STARTUP**](http://tkim.co/) : http://tkim.co/feed/
 - [**Headstart Growth**](https://headstartup.tistory.com/): https://headstartup.tistory.com/feed
+- [**THE STARTUP BIBLE**](https://www.thestartupbible.com/) : http://feeds.feedburner.com/baenefit/slXh
+
 
 ## Develop
+
 - [**the morning paper**](https://blog.acolyer.org/) : https://blog.acolyer.org/feed/
 - [**Popit**](http://www.popit.kr/) : http://www.popit.kr/feed/
 - [**Outsider's Dev Story**](https://blog.outsider.ne.kr/) : http://feeds2.feedburner.com/rss_outsider_dev
@@ -21,10 +27,22 @@
 - [Github Blog Engineering](https://github.blog/category/engineering/) : https://github.blog/category/engineering/feed/
 - [DevGround](http://devground.hanbit.co.kr/) : http://devground.hanbit.co.kr/feed
 
+
+
+## Math
+
+- [**3Blue1Brown**](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) : https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+
+  
+
 ## Data Science
+
 - [No Free Hunch](http://blog.kaggle.com/) : http://blog.kaggle.com/feed/
 
+
+
 ## Machine Learning
+
 - [Andrej Karpathy](https://medium.com/@karpathy/) : https://medium.com/feed/@karpathy/
 - [**Google AI Blog**](https://ai.googleblog.com/): http://feeds.feedburner.com/blogspot/gJZg
 - [**The Berkeley Artificial Intelligence Research Blog**](http://bair.berkeley.edu/blog/): http://bair.berkeley.edu/blog/feed.xml
@@ -44,21 +62,32 @@
 - [fast.ai NLP](http://nlp.fast.ai/) : http://nlp.fast.ai/feed.xml
 - [The Spectator Shakir's ML Blog](http://blog.shakirm.com/) : http://blog.shakirm.com/feed/
 - [**SuaLab Research Blog**](http://research.sualab.com/) : http://research.sualab.com/feed.xml
+- [**Yannic Kilcher**](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) : https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew 
 
 ## News
 - [**NewsPeppermint**](http://newspeppermint.com/) : http://newspeppermint.com/feed/
 - [The GEAR](https://www.thegear.kr/) : http://www.thegear.kr/rss/allArticle.xml
+- [**Slowth**](https://slowth.co/) : https://slowth.co/feed/
+
 
 ## Podcast
+
 - [This Week in Machine Learning & AI Podcast](https://twimlai.com/) : http://feeds.feedburner.com/twimlai
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) : https://lexfridman.com/category/ai/feed/
 
+
+
 ## StartUp
+
 - [TechCrunch - StartUp](https://techcrunch.com/startups/) : http://feeds.feedburner.com/TechCrunch/startups
 - [Platum](http://platum.kr/) : http://platum.kr/feed
 
+
+
 ## Tech
-- [techNeedle](http://techneedle.com/) : http://techneedle.com/feed
+
+- [**techNeedle**](http://techneedle.com/) : http://techneedle.com/feed
 - [MIT Technology Review](https://www.technologyreview.com/): https://www.technologyreview.com/topnews.rss
 - [**STRATECHERY**](https://stratechery.com/): http://stratechery.com/feed/
 - [44BITS](https://www.44bits.io/ko): https://www.44bits.io/ko/feed/all
+
