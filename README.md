@@ -6,7 +6,10 @@
 
 - [HumanBrain](https://dongjunlee.github.io/) : https://dongjunlee.github.io/feed.xml
 
+## Newsletter
 
+- [GeekNews](https://news.hada.io/) : https://feeds.feedburner.com/geeknews-feed
+- [요즘IT](https://yozm.wishket.com/magazine/): https://yozm.wishket.com/magazine/feed/
 
 ## Insight
 
@@ -25,8 +28,7 @@
 - [개발자 블로그 모음](https://github.com/BenjaminKim/awesome-blogs) : https://awesome-blogs.petabytes.org/feeds?group=dev
 - [Robert C. Martin - CleanCoder](http://blog.cleancoder.com/) : http://blog.cleancoder.com/atom.xml
 - [Github Blog Engineering](https://github.blog/category/engineering/) : https://github.blog/category/engineering/feed/
-- [DevGround](http://devground.hanbit.co.kr/) : http://devground.hanbit.co.kr/feed
-
+- [**DevGround**](http://devground.hanbit.co.kr/) : http://devground.hanbit.co.kr/feed
 
 
 ## Math
@@ -64,6 +66,7 @@
 - [**SuaLab Research Blog**](http://research.sualab.com/) : http://research.sualab.com/feed.xml
 - [**Yannic Kilcher**](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) : https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew 
 
+
 ## News
 - [**NewsPeppermint**](http://newspeppermint.com/) : http://newspeppermint.com/feed/
 - [The GEAR](https://www.thegear.kr/) : http://www.thegear.kr/rss/allArticle.xml
@@ -76,12 +79,10 @@
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) : https://lexfridman.com/category/ai/feed/
 
 
-
 ## StartUp
 
 - [TechCrunch - StartUp](https://techcrunch.com/startups/) : http://feeds.feedburner.com/TechCrunch/startups
 - [Platum](http://platum.kr/) : http://platum.kr/feed
-
 
 
 ## Tech
