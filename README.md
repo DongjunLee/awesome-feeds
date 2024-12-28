@@ -33,9 +33,7 @@
 
 ## Math
 
-- [**3Blue1Brown**](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) : https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
-
-  
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) : https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
 
 ## Data Science
 
@@ -64,7 +62,7 @@
 - [fast.ai NLP](http://nlp.fast.ai/) : http://nlp.fast.ai/feed.xml
 - [The Spectator Shakir's ML Blog](http://blog.shakirm.com/) : http://blog.shakirm.com/feed/
 - [**SuaLab Research Blog**](http://research.sualab.com/) : http://research.sualab.com/feed.xml
-- [**Yannic Kilcher**](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) : https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew 
+- [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) : https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew 
 
 
 ## News
